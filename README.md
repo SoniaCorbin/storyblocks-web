@@ -1,5 +1,5 @@
-# storyblocks-web
-Politique de confidentialite de l'application StoryBlocks
+[storyblocks-privacy (1).html](https://github.com/user-attachments/files/32387836/storyblocks-privacy.1.html)
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
